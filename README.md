@@ -1,6 +1,2 @@
 # Our-website
--Tsukinatsune
-
--Sanoki mako
-
--Jonathan7530
+Sanokimako=Mako,Tsukinatsune=Tsukinatsune,pleum7530=Jonathan7530
